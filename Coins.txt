@@ -1,0 +1,8 @@
+Cent ¢
+5
+Dollar 100 
+Quarter 25
+Dime 10
+Nickel 5
+Cent 1
+
